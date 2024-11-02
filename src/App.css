@@ -1,0 +1,16 @@
+.Search {
+    width: 100vw;
+    height: 100vw;
+    background: linear-gradient(90deg, #410070, #8820dd);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: sans-serif;
+    
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+

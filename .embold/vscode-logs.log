@@ -1,0 +1,51 @@
+2024-11-02 19:40:34 info: Congratulations, your extension "Embold" is now active!
+2024-11-02 19:40:34 info: tempDirectory : /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:40:35 info: Extraction complete for source: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/resources/embold-scanner-archive.zip, destination: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:40:35 info: Extension installed on machine OS : darwin
+2024-11-02 19:40:35 info: Fetched the issues from DB
+2024-11-02 19:40:37 info: Java version installed on machine : 
+java version "20.0.2" 2023-07-18
+Java(TM) SE Runtime Environment (build 20.0.2+9-78)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
+
+2024-11-02 19:40:37 info: Java installed on machine.
+2024-11-02 19:40:39 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-11-02 19:40:39 info: Current installed embold extension version : 0.1.8
+2024-11-02 19:40:39 info: Latest embold extension version on marketplace : 0.1.6
+2024-11-02 19:44:01 info: Row(s) deleted
+2024-11-02 19:45:29 info: Congratulations, your extension "Embold" is now active!
+2024-11-02 19:45:29 info: tempDirectory : /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:45:33 info: Extraction complete for source: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/resources/embold-scanner-archive.zip, destination: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:45:33 info: Extension installed on machine OS : darwin
+2024-11-02 19:45:33 info: Fetched the issues from DB
+2024-11-02 19:45:33 info: Java version installed on machine : 
+java version "20.0.2" 2023-07-18
+Java(TM) SE Runtime Environment (build 20.0.2+9-78)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
+
+2024-11-02 19:45:33 info: Java installed on machine.
+2024-11-02 19:45:35 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-11-02 19:45:35 info: Current installed embold extension version : 0.1.8
+2024-11-02 19:45:35 info: Latest embold extension version on marketplace : 0.1.6
+2024-11-02 19:46:17 error: SQLITE_CANTOPEN: unable to open database file
+2024-11-02 19:46:41 info: Congratulations, your extension "Embold" is now active!
+2024-11-02 19:46:41 info: tempDirectory : /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:46:42 info: Extraction complete for source: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/resources/embold-scanner-archive.zip, destination: /Users/hergulama/.vscode/extensions/embold-vscode.embold-0.1.8/temp
+2024-11-02 19:46:42 info: Extension installed on machine OS : darwin
+2024-11-02 19:46:42 info: Fetched the issues from DB
+2024-11-02 19:46:42 info: Java version installed on machine : 
+java version "20.0.2" 2023-07-18
+Java(TM) SE Runtime Environment (build 20.0.2+9-78)
+Java HotSpot(TM) 64-Bit Server VM (build 20.0.2+9-78, mixed mode, sharing)
+
+2024-11-02 19:46:42 info: Java installed on machine.
+2024-11-02 19:46:43 info: Embold extension version response:{"hasSupport":false,"version":"0.1.6","changeNotes":"<div> <p>Release Date: 09 Oct, 2023 <br><span>Bug fixes and improvements.</span></p> </div>"}
+2024-11-02 19:46:43 info: Current installed embold extension version : 0.1.8
+2024-11-02 19:46:43 info: Latest embold extension version on marketplace : 0.1.6
+2024-11-02 19:48:05 info: Row(s) deleted
+2024-11-02 19:48:05 info: Row(s) deleted
+2024-11-02 19:48:31 info: Row(s) deleted
+2024-11-02 19:50:54 info: Row(s) deleted
+2024-11-02 19:50:54 info: Row(s) deleted
+2024-11-02 19:50:54 info: Row(s) deleted
+2024-11-02 19:50:54 info: Row(s) deleted
